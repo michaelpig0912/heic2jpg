@@ -22,5 +22,3 @@ python heic_to_jpg.py
 
 ## 擴展功能
 雖然我們在這篇文章中主要關注將 HEIC 轉換為 JPG，但您還可以使用類似的方法將 HEIC 文件轉換為其他圖像格式，如 webp。您還可以使用 Pillow 庫進行更高級的影像處理，例如調整影像大小、應用濾鏡和編輯影像的資料數據等。
-
-更多內容可以參考：[michaelpig](https://michaelpig0912.github.io/)
